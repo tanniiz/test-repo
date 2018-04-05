@@ -1,0 +1,22 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanniiz/test-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanniiz/test-repo/issues"
+  },
+  "homepage": "https://github.com/tanniiz/test-repo#readme",
+  "devDependencies": {
+    "validate-commit": "^3.4.0"
+  }
+}
